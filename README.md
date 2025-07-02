@@ -1,4 +1,4 @@
-# SaaS Multitenant Application
+# SaaS Multitenant Application (Create by Jean Correa)
 
 Una aplicación SaaS multitenant completa construida con Node.js, Prisma y PostgreSQL.
 
@@ -270,8 +270,7 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 Para soporte y preguntas:
 - Crear un issue en GitHub
-- Email: support@yourcompany.com
-- Documentación: [docs.yourcompany.com](https://docs.yourcompany.com)
+- Email: jeancorrea1000@gmail.com
 
 ## 🔄 Changelog
 
